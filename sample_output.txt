@@ -1,0 +1,32 @@
+C:\Users\Sanjana>"C:\Users\Sanjana\OneDrive\Desktop\todo-app\main.py"
+
+Smart To-Do List Manager
+1. Add Task
+2. Mark Task as Completed
+3. Delete Task
+4. View All Tasks
+5. Exit
+Enter your choice: 1
+Enter task title: buy fruits
+Enter task description: apple,mango
+Enter due date (YYYY-MM-DD): 2025-09-12
+Enter priority (High/Medium/Low): high
+✅ Task 'buy fruits' added successfully!
+
+Smart To-Do List Manager
+1. Add Task
+2. Mark Task as Completed
+3. Delete Task
+4. View All Tasks
+5. Exit
+Enter your choice: 2
+Enter the ID of the task to mark as completed: 1
+✅ Task marked as completed.
+
+Smart To-Do List Manager
+1. Add Task
+2. Mark Task as Completed
+3. Delete Task
+4. View All Tasks
+5. Exit
+Enter your choice:
